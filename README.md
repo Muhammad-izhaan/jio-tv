@@ -145,16 +145,4 @@ Through LocalHost </br></br>🌟 Star This Repository Before Forking 😎</br>Do
 
 [![Star History Chart](https://api.star-history.com/svg?repos=mitthu786/TS-JioTV&type=Date)](https://star-history.com/#mitthu786/TS-JioTV&Date)
 
-### 📞 CONTACT US :
 
-- `TELEGRAM` CHANNEL [JOIN NOW](https://tsneh.vercel.app/ts-tg)
-- FOR ANY QUERY `CONTACT US` ON [PROTON-MAIL](mailto:techiesneh@protonmail.com)
-
-</br>
-
----
-
-<h4 align='center'>© 2021-24 Techie Sneh</h4>
-
-<!-- DO NOT REMOVE THIS CREDIT -->
-<!-- © 2021-24 TechieSneh -->
